@@ -8,7 +8,7 @@ ThemeData darkTheme = ThemeData(
   fontFamily: "Janah",
     primarySwatch: defaultColor,
     textTheme: TextTheme(
-        body1: TextStyle(
+        bodyText1: TextStyle(
           color:Colors.white,
         )
     ),
